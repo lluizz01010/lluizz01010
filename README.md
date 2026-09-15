@@ -1,8 +1,11 @@
 <p align="center">
-  <img src=https://i.pinimg.com/736x/51/5e/ba/515eba2f0a8843cd5c195170a3811eaf.jpg width="100%" alt="banner"/>
+  <img src=https://i.pinimg.com/736x/cc/34/31/cc34310aa97cc0c2b36e56ef1796a829.jpg width="100%" alt="banner"/>
 </p>
 
-# Hi, I am Luiz 
+<div align="center">
 
-**Control and Automation Engineering Student | Electrotechnical Technician | Studying Data Analysis]**
+# Hi, I am Luiz
 
+##  Criação de Perfil em Andamento.....🏗️
+
+</div>
