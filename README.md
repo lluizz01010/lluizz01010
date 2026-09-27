@@ -10,7 +10,7 @@
 
 <div align="justify">
   
-###### Eae, tudo bem? Meu nome é Luiz Henrique, nasci aqui em Manaus, mais precisamente na zona leste. Hoje sou estudante de engenharia de controle e automação e técnico em eletrotécnica. Em minha vida, hoje tenho dois objetivos de vida simples, consumir todos os tipos de artes e ser importante na vida das pessoas.
+###### Eae, tudo bem? Meu nome é Luiz Henrique, nasci aqui em Manaus, mais precisamente na zona leste. Hoje sou estudante de engenharia de controle e automação e técnico em eletrotécnica. Em minha vida tenho dois objetivos simples, um é consumir todos os tipos de artes e o outro é ser importante na vida das pessoas.
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ### Projetos em Desenvolvimento
 
-💻**Sistema de Gestão de Manutenção** <img src="loading-bar.gif" width="50">
+**Sistema de Gestão de Manutenção** <img src="barra_carregamento_transparente.gif" width="200" align="middle">
 
 <p align="justify">
 Sistema que, a partir de manuais técnicos e outras informações, gera planos de manutenção efetivos. Também oferece análise financeira de paradas de linha de produção por manutenção, indicadores de efetividade de funcionários, gestão de projetos e outros serviços de apoio ao setor.
@@ -51,7 +51,7 @@ Sistema que, a partir de manuais técnicos e outras informações, gera planos d
 
 ---
 
-### Statistics
+### Estátisticas GitHub
 
 <p align="center">
  
