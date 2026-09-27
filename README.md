@@ -58,6 +58,10 @@ Sistema que, a partir de manuais técnicos e outras informações, gera planos d
   <img src="https://streak-stats.demolab.com/?user=lluizz01010&background=0D0D0D&border=FF1E56&ring=FF1E56&fire=FF1E56&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E56&sideLabels=CCCCCC&dates=888888&stroke=FF1E56" width="48%" />
 </p>
 
+<p align="center">
+  <img src="metrics.svg" width="100%" />
+</p>
+
 ---
 
 ## Contato
