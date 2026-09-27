@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://i.pinimg.com/736x/cc/34/31/cc34310aa97cc0c2b36e56ef1796a829.jpg width="100%" alt="banner"/>
+  <img src="banner.png" width="100%" alt="banner"/>
 </p>
 
 <div align="center">
@@ -54,12 +54,8 @@ Sistema que, a partir de manuais técnicos e outras informações, gera planos d
 ### Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lluizz01010&show_icons=true&bg_color=0D0D0D&title_color=FF1E56&icon_color=FF1E56&text_color=FFFFFF&ring_color=FF1E56&border_color=FF1E56" width="48%" />
+ 
   <img src="https://streak-stats.demolab.com/?user=lluizz01010&background=0D0D0D&border=FF1E56&ring=FF1E56&fire=FF1E56&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E56&sideLabels=CCCCCC&dates=888888&stroke=FF1E56" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lluizz01010&bg_color=0D0D0D&color=FFFFFF&line=FF1E56&point=FF1E56&area=true&area_color=FF1E56&border_color=FF1E56&title_color=FF1E56" width="98%" />
 </p>
 
 ---
