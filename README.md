@@ -65,5 +65,5 @@ Sistema que, a partir de manuais técnicos e outras informações, gera planos d
 ---
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizzsilva)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luizhsilvadasilva77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B22222)](https://www.linkedin.com/in/luizzsilva)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B22222)](mailto:luizhsilvadasilva77@gmail.com)
