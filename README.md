@@ -6,6 +6,10 @@
 
 # Hello, my friend
 
+<p align="center">
+  <img src="terminal-bio.svg" width="560" />
+</p>
+
 </div>
 
 <div align="justify">
@@ -38,10 +42,6 @@
 ![Office](https://img.shields.io/badge/Pacote_Office-000000?style=for-the-badge&logo=microsoftoffice&logoColor=B22222)
 
 </div>
-
-<p align="center">
-  <img src="terminal-bio.svg" width="560" />
-</p>
 
 ---
    
