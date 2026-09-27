@@ -39,8 +39,12 @@
 
 </div>
 
----
+<p align="center">
+  <img src="terminal-bio.svg" width="560" />
+</p>
 
+---
+   
 ### Projetos em Desenvolvimento
 
 **Sistema de Gestão de Manutenção** <img src="barra_carregamento_transparente.gif" width="200" align="middle">
@@ -54,13 +58,9 @@ Sistema que, a partir de manuais técnicos e outras informações, gera planos d
 ### Estátisticas GitHub
 
 <p align="center">
- 
   <img src="https://streak-stats.demolab.com/?user=lluizz01010&background=0D0D0D&border=FF1E56&ring=FF1E56&fire=FF1E56&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E56&sideLabels=CCCCCC&dates=888888&stroke=FF1E56" width="48%" />
 </p>
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="98%" />
-</p>
 
 ---
 
